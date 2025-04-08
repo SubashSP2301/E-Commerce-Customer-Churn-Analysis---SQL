@@ -1,1 +1,0 @@
-SELECT * FROM ecomm.customer_churn;
