@@ -1,5 +1,3 @@
-
-
 Use ecomm;
 
 Set SQL_SAFE_UPDATES = 0;
